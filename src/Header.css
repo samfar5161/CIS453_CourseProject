@@ -1,0 +1,46 @@
+.HeaderMiddle div{
+    background-color: #832020;
+}
+
+.HeaderTop ul{
+    background-color: black;
+    list-style-type: none;
+    color: white;
+    text-align: right;
+    margin: 0px;
+    padding: 0px;
+    font-size: .8 em;
+}
+
+.HeaderTop ul li{
+    margin-left: 40px;
+    margin-right: 20px;
+    font-size: .9em;
+}
+
+.HeaderBottom{
+    background-color: #4F0000;
+}
+
+.HeaderBottom ul{
+    background-color: #4F0000;
+    margin: 0px;
+    padding: 10px;
+    align-content: center;
+    align-items: stretch;
+}
+
+.HeaderBottom ul li{
+    background-color: #4F0000;
+    font-family: Roboto, sans-serif;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+#BtnSearch{
+    font-weight: bold;
+    background-color: #832020;
+    color: white;
+    border: none;
+    padding: 5px 25px;
+}

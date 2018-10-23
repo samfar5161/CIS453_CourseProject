@@ -149,10 +149,24 @@ export default class Guitarcontent_maincontainer extends React.Component {
                       <div className="guitarcontent_maincontainer-0-1-0-0">
                           <div className="guitarcontent_maincontainer-frame-0">
                               <div className="guitarcontent_maincontainer-0-1-0-0-0-0">
-                                  <div className="guitarcontent_maincontainer-rectangle-0" /> 
+                                  <div className="guitarcontent_maincontainer-0-1-0-0-0-0-0">
+                                      <div className="guitarcontent_maincontainer-0-1-0-0-0-0-0-0">
+                                          <div className="guitarcontent_maincontainer-rectangle-0" /> 
+                                      </div>
+                                  </div>
+                                  <div className="guitarcontent_maincontainer-0-1-0-0-0-0-1">
+                                      <div className="guitarcontent_maincontainer-0-1-0-0-0-0-1-0">
+                                          <div className="guitarcontent_maincontainer-rectangle-00" /> 
+                                      </div>
+                                  </div>
+                                  <div className="guitarcontent_maincontainer-0-1-0-0-0-0-2">
+                                      <div className="guitarcontent_maincontainer-0-1-0-0-0-0-2-0">
+                                          <div className="guitarcontent_maincontainer-rectangle-000" /> 
+                                      </div>
+                                  </div>
                               </div>
                               <div className="guitarcontent_maincontainer-0-1-0-0-0-1">
-                                  <div className="guitarcontent_maincontainer-rectangle-00">
+                                  <div className="guitarcontent_maincontainer-rectangle-0000">
                                       <div className="guitarcontent_maincontainer-0-1-0-0-0-1-0-0">
                                           <div className="guitarcontent_maincontainer-guitarcontent_maincontainer_catelog_item3">
                                               <div className="guitarcontent_maincontainer-0-1-0-0-0-1-0-0-0-0">
@@ -200,7 +214,7 @@ export default class Guitarcontent_maincontainer extends React.Component {
                                   </div>
                                   <div className="guitarcontent_maincontainer-guitarcontent_maincontent_catelog_item1">
                                       <div className="guitarcontent_maincontainer-0-1-0-0-0-1-1-0">
-                                          <div className="guitarcontent_maincontainer-rectangle-000">
+                                          <div className="guitarcontent_maincontainer-rectangle-00000">
                                               <div className="guitarcontent_maincontainer-0-1-0-0-0-1-1-0-0-0">
                                                   <img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/70ee/4427/4f8f420381676b4f57902825c223627f" className="guitarcontent_maincontainer-image-3" /> 
                                               </div>
@@ -246,7 +260,7 @@ export default class Guitarcontent_maincontainer extends React.Component {
                                   </div>
                                   <div className="guitarcontent_maincontainer-guitarcontent_maincontainer_catelog_item4">
                                       <div className="guitarcontent_maincontainer-0-1-0-0-0-1-2-0">
-                                          <div className="guitarcontent_maincontainer-rectangle-0000">
+                                          <div className="guitarcontent_maincontainer-rectangle-000003">
                                               <div className="guitarcontent_maincontainer-0-1-0-0-0-1-2-0-0-0">
                                                   <img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/63a9/e81e/4403e82c88e34a39992eaf1c26cfb2e0" className="guitarcontent_maincontainer-image-61" /> 
                                               </div>
@@ -290,7 +304,7 @@ export default class Guitarcontent_maincontainer extends React.Component {
                                           </div>
                                       </div>
                                   </div>
-                                  <div className="guitarcontent_maincontainer-rectangle-00000">
+                                  <div className="guitarcontent_maincontainer-rectangle-000002">
                                       <div className="guitarcontent_maincontainer-0-1-0-0-0-1-3-0">
                                           <div className="guitarcontent_maincontainer-guitarcontent_maincontainer_catelog_item2">
                                               <div className="guitarcontent_maincontainer-0-1-0-0-0-1-3-0-0-0">
@@ -338,7 +352,7 @@ export default class Guitarcontent_maincontainer extends React.Component {
                                   </div>
                               </div>
                               <div className="guitarcontent_maincontainer-0-1-0-0-0-2">
-                                  <div className="guitarcontent_maincontainer-rectangle-000003">
+                                  <div className="guitarcontent_maincontainer-rectangle-0000034">
                                       <div className="guitarcontent_maincontainer-0-1-0-0-0-2-0-0">
                                           <div className="guitarcontent_maincontainer-guitarcontent_maincontainer_header-0">
                                               <div className="guitarcontent_maincontainer-0-1-0-0-0-2-0-0-0-0">
@@ -468,10 +482,13 @@ export default class Guitarcontent_maincontainer extends React.Component {
                                               <div className="guitarcontent_maincontainer-0-1-0-0-1-0-0-0-2-1">
                                                   <div className="guitarcontent_maincontainer-guitarconent_maincontainer_dropdown-0000">
                                                       <div className="guitarcontent_maincontainer-0-1-0-0-1-0-0-0-2-1-0-0">
-                                                          <div className="guitarcontent_maincontainer-rectangle_2-0000039">
+                                                          <div className="guitarcontent_maincontainer-0-1-0-0-1-0-0-0-2-1-0-0-0">
                                                               <div className="guitarcontent_maincontainer-0-1-0-0-1-0-0-0-2-1-0-0-0-0">
-                                                                  <div className="guitarcontent_maincontainer-best_matches-00">
-                                                                      Best Matches
+                                                                  <div className="guitarcontent_maincontainer-0-1-0-0-1-0-0-0-2-1-0-0-0-0-0">
+                                                                      <div className="guitarcontent_maincontainer-rectangle_2-0000039" /> 
+                                                                      <div className="guitarcontent_maincontainer-best_matches-00">
+                                                                          Best Matches
+                                                                      </div>
                                                                   </div>
                                                               </div>
                                                           </div>
@@ -504,21 +521,20 @@ export default class Guitarcontent_maincontainer extends React.Component {
                                   </div>
                               </div>
                           </div>
-                          <div className="guitarcontent_maincontainer-rectangle-0000037" /> 
                           <div className="guitarcontent_maincontainer-guitarcontent_maincontent_catelog_item1-0">
-                              <div className="guitarcontent_maincontainer-0-1-0-0-3-0">
+                              <div className="guitarcontent_maincontainer-0-1-0-0-2-0">
                                   <img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/70ee/4427/4f8f420381676b4f57902825c223627f" className="guitarcontent_maincontainer-image-4" /> 
                               </div>
-                              <div className="guitarcontent_maincontainer-0-1-0-0-3-1">
+                              <div className="guitarcontent_maincontainer-0-1-0-0-2-1">
                                   <div className="guitarcontent_maincontainer-g_l_limited_edition_tribute_asat_classic_ash_body_electric_guitar-00">
                                       {"G&L Limited Edition Tribute ASAT Classic Ash Body Electric Guitar"}
                                   </div>
                               </div>
-                              <div className="guitarcontent_maincontainer-0-1-0-0-3-2">
+                              <div className="guitarcontent_maincontainer-0-1-0-0-2-2">
                                   <div className="guitarcontent_maincontainer-rectangle_2-0000036">
-                                      <div className="guitarcontent_maincontainer-0-1-0-0-3-2-0-0">
+                                      <div className="guitarcontent_maincontainer-0-1-0-0-2-2-0-0">
                                           <div className="guitarcontent_maincontainer-guitarcontent_maincontainer_catelog_stars-00000">
-                                              <div className="guitarcontent_maincontainer-0-1-0-0-3-2-0-0-0-0">
+                                              <div className="guitarcontent_maincontainer-0-1-0-0-2-2-0-0-0-0">
                                                   <div className="guitarcontent_maincontainer-14">
                                                       144 Reviews
                                                   </div>
@@ -527,16 +543,16 @@ export default class Guitarcontent_maincontainer extends React.Component {
                                       </div>
                                   </div>
                               </div>
-                              <div className="guitarcontent_maincontainer-0-1-0-0-3-3">
+                              <div className="guitarcontent_maincontainer-0-1-0-0-2-3">
                                   <div className="guitarcontent_maincontainer-_399">
                                       $399.99
                                   </div>
                               </div>
-                              <div className="guitarcontent_maincontainer-0-1-0-0-3-4">
+                              <div className="guitarcontent_maincontainer-0-1-0-0-2-4">
                                   <div className="guitarcontent_maincontainer-guitarciontent_maincontainer_catelog_compare-00000">
-                                      <div className="guitarcontent_maincontainer-0-1-0-0-3-4-0-0">
-                                          <div className="guitarcontent_maincontainer-0-1-0-0-3-4-0-0-0">
-                                              <div className="guitarcontent_maincontainer-0-1-0-0-3-4-0-0-0-0">
+                                      <div className="guitarcontent_maincontainer-0-1-0-0-2-4-0-0">
+                                          <div className="guitarcontent_maincontainer-0-1-0-0-2-4-0-0-0">
+                                              <div className="guitarcontent_maincontainer-0-1-0-0-2-4-0-0-0-0">
                                                   <div className="guitarcontent_maincontainer-rectangle_2-0000038" /> 
                                               </div>
                                           </div>
@@ -548,19 +564,19 @@ export default class Guitarcontent_maincontainer extends React.Component {
                               </div>
                           </div>
                           <div className="guitarcontent_maincontainer-guitarcontent_maincontainer_catelog_item4-0">
-                              <div className="guitarcontent_maincontainer-0-1-0-0-4-0">
+                              <div className="guitarcontent_maincontainer-0-1-0-0-3-0">
                                   <img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/63a9/e81e/4403e82c88e34a39992eaf1c26cfb2e0" className="guitarcontent_maincontainer-image-40" /> 
                               </div>
-                              <div className="guitarcontent_maincontainer-0-1-0-0-4-1">
+                              <div className="guitarcontent_maincontainer-0-1-0-0-3-1">
                                   <div className="guitarcontent_maincontainer-g_l_limited_edition_tribuite_asat_classic_bluesboy_electric_guitar_turquoise_mist-00">
                                       {"G&L Limited Edition Tribuite ASAT Classic Bluesboy Electric Guitar Turquoise Mist"}
                                   </div>
                               </div>
-                              <div className="guitarcontent_maincontainer-0-1-0-0-4-2">
+                              <div className="guitarcontent_maincontainer-0-1-0-0-3-2">
                                   <div className="guitarcontent_maincontainer-guitarcontent_maincontainer_catelog_stars-000003">
-                                      <div className="guitarcontent_maincontainer-0-1-0-0-4-2-0-0">
+                                      <div className="guitarcontent_maincontainer-0-1-0-0-3-2-0-0">
                                           <div className="guitarcontent_maincontainer-rectangle_2-0000007">
-                                              <div className="guitarcontent_maincontainer-0-1-0-0-4-2-0-0-0-0">
+                                              <div className="guitarcontent_maincontainer-0-1-0-0-3-2-0-0-0-0">
                                                   <div className="guitarcontent_maincontainer-22_">
                                                       22 Reviews
                                                   </div>
@@ -569,16 +585,16 @@ export default class Guitarcontent_maincontainer extends React.Component {
                                       </div>
                                   </div>
                               </div>
-                              <div className="guitarcontent_maincontainer-0-1-0-0-4-3">
+                              <div className="guitarcontent_maincontainer-0-1-0-0-3-3">
                                   <div className="guitarcontent_maincontainer-_349">
                                       $349.99
                                   </div>
                               </div>
-                              <div className="guitarcontent_maincontainer-0-1-0-0-4-4">
+                              <div className="guitarcontent_maincontainer-0-1-0-0-3-4">
                                   <div className="guitarcontent_maincontainer-guitarciontent_maincontainer_catelog_compare-000002">
-                                      <div className="guitarcontent_maincontainer-0-1-0-0-4-4-0-0">
-                                          <div className="guitarcontent_maincontainer-0-1-0-0-4-4-0-0-0">
-                                              <div className="guitarcontent_maincontainer-0-1-0-0-4-4-0-0-0-0">
+                                      <div className="guitarcontent_maincontainer-0-1-0-0-3-4-0-0">
+                                          <div className="guitarcontent_maincontainer-0-1-0-0-3-4-0-0-0">
+                                              <div className="guitarcontent_maincontainer-0-1-0-0-3-4-0-0-0-0">
                                                   <div className="guitarcontent_maincontainer-rectangle_2-0000014" /> 
                                               </div>
                                           </div>
@@ -589,22 +605,21 @@ export default class Guitarcontent_maincontainer extends React.Component {
                                   </div>
                               </div>
                           </div>
-                          <div className="guitarcontent_maincontainer-rectangle-000000" /> 
                           <div className="guitarcontent_maincontainer-guitarcontent_maincontainer_catelog_item3-0" /> 
-                          <div className="guitarcontent_maincontainer-rectangle-0000002">
-                              <div className="guitarcontent_maincontainer-0-1-0-0-7-0">
+                          <div className="guitarcontent_maincontainer-rectangle-000000">
+                              <div className="guitarcontent_maincontainer-0-1-0-0-5-0">
                                   <img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/40ec/9810/ccbf59dc78d97aa8483d3304ce93728f" className="guitarcontent_maincontainer-image-2" /> 
                               </div>
-                              <div className="guitarcontent_maincontainer-0-1-0-0-7-1">
+                              <div className="guitarcontent_maincontainer-0-1-0-0-5-1">
                                   <div className="guitarcontent_maincontainer-d_angelico_premier_series_ss_semi-hollowbody_electric_guitar_with_stairstep_tailpiece-00">
                                       {"D’Angelico Premier Series SS Semi-Hollowbody Electric Guitar with Stairstep Tailpiece"}
                                   </div>
                               </div>
-                              <div className="guitarcontent_maincontainer-0-1-0-0-7-2">
+                              <div className="guitarcontent_maincontainer-0-1-0-0-5-2">
                                   <div className="guitarcontent_maincontainer-rectangle_2-0000032">
-                                      <div className="guitarcontent_maincontainer-0-1-0-0-7-2-0-0">
+                                      <div className="guitarcontent_maincontainer-0-1-0-0-5-2-0-0">
                                           <div className="guitarcontent_maincontainer-guitarcontent_maincontainer_catelog_stars-000002">
-                                              <div className="guitarcontent_maincontainer-0-1-0-0-7-2-0-0-0-0">
+                                              <div className="guitarcontent_maincontainer-0-1-0-0-5-2-0-0-0-0">
                                                   <div className="guitarcontent_maincontainer-22_r">
                                                       22 Reviews
                                                   </div>
@@ -613,16 +628,16 @@ export default class Guitarcontent_maincontainer extends React.Component {
                                       </div>
                                   </div>
                               </div>
-                              <div className="guitarcontent_maincontainer-0-1-0-0-7-3">
+                              <div className="guitarcontent_maincontainer-0-1-0-0-5-3">
                                   <div className="guitarcontent_maincontainer-_74">
                                       $749.99
                                   </div>
                               </div>
-                              <div className="guitarcontent_maincontainer-0-1-0-0-7-4">
+                              <div className="guitarcontent_maincontainer-0-1-0-0-5-4">
                                   <div className="guitarcontent_maincontainer-guitarciontent_maincontainer_catelog_compare-0000020">
-                                      <div className="guitarcontent_maincontainer-0-1-0-0-7-4-0-0">
-                                          <div className="guitarcontent_maincontainer-0-1-0-0-7-4-0-0-0">
-                                              <div className="guitarcontent_maincontainer-0-1-0-0-7-4-0-0-0-0">
+                                      <div className="guitarcontent_maincontainer-0-1-0-0-5-4-0-0">
+                                          <div className="guitarcontent_maincontainer-0-1-0-0-5-4-0-0-0">
+                                              <div className="guitarcontent_maincontainer-0-1-0-0-5-4-0-0-0-0">
                                                   <div className="guitarcontent_maincontainer-rectangle_2-0000029" /> 
                                               </div>
                                           </div>
@@ -634,19 +649,19 @@ export default class Guitarcontent_maincontainer extends React.Component {
                               </div>
                           </div>
                           <div className="guitarcontent_maincontainer-guitarcontent_maincontainer_catelog_item2-0">
-                              <div className="guitarcontent_maincontainer-0-1-0-0-8-0">
+                              <div className="guitarcontent_maincontainer-0-1-0-0-6-0">
                                   <img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/c15d/5025/3ebfa64a72fc84688fa0308e9e2da04e" className="guitarcontent_maincontainer-image-0" /> 
                               </div>
-                              <div className="guitarcontent_maincontainer-0-1-0-0-8-1">
+                              <div className="guitarcontent_maincontainer-0-1-0-0-6-1">
                                   <div className="guitarcontent_maincontainer-d_angelico_premier_series_dc_with_stop_tail_piece_hollowbody_electric_guitar-00">
                                       {"D’Angelico Premier Series DC with Stop Tail Piece HollowBody Electric Guitar"}
                                   </div>
                               </div>
-                              <div className="guitarcontent_maincontainer-0-1-0-0-8-2">
+                              <div className="guitarcontent_maincontainer-0-1-0-0-6-2">
                                   <div className="guitarcontent_maincontainer-rectangle_2-0000031">
-                                      <div className="guitarcontent_maincontainer-0-1-0-0-8-2-0-0">
+                                      <div className="guitarcontent_maincontainer-0-1-0-0-6-2-0-0">
                                           <div className="guitarcontent_maincontainer-guitarcontent_maincontainer_catelog_stars-0000029">
-                                              <div className="guitarcontent_maincontainer-0-1-0-0-8-2-0-0-0-0">
+                                              <div className="guitarcontent_maincontainer-0-1-0-0-6-2-0-0-0-0">
                                                   <div className="guitarcontent_maincontainer-104">
                                                       104 Reviews
                                                   </div>
@@ -655,16 +670,16 @@ export default class Guitarcontent_maincontainer extends React.Component {
                                       </div>
                                   </div>
                               </div>
-                              <div className="guitarcontent_maincontainer-0-1-0-0-8-3">
+                              <div className="guitarcontent_maincontainer-0-1-0-0-6-3">
                                   <div className="guitarcontent_maincontainer-_69">
                                       $699.99
                                   </div>
                               </div>
-                              <div className="guitarcontent_maincontainer-0-1-0-0-8-4">
+                              <div className="guitarcontent_maincontainer-0-1-0-0-6-4">
                                   <div className="guitarcontent_maincontainer-guitarciontent_maincontainer_catelog_compare-0000025">
-                                      <div className="guitarcontent_maincontainer-0-1-0-0-8-4-0-0">
-                                          <div className="guitarcontent_maincontainer-0-1-0-0-8-4-0-0-0">
-                                              <div className="guitarcontent_maincontainer-0-1-0-0-8-4-0-0-0-0">
+                                      <div className="guitarcontent_maincontainer-0-1-0-0-6-4-0-0">
+                                          <div className="guitarcontent_maincontainer-0-1-0-0-6-4-0-0-0">
+                                              <div className="guitarcontent_maincontainer-0-1-0-0-6-4-0-0-0-0">
                                                   <div className="guitarcontent_maincontainer-rectangle_2-0000021" /> 
                                               </div>
                                           </div>
